@@ -1,2 +1,2 @@
 # Travel-Vlog
-Project as Travel Vlog (Unfinished)
+Project as Travel Blog (Unfinished)
